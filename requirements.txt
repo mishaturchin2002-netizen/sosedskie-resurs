@@ -1,0 +1,10 @@
+vkbottle>=4.9,<5
+SQLAlchemy[asyncio]>=2.0,<2.1
+aiosqlite>=0.20,<1
+aiohttp>=3.9,<4
+python-dotenv>=1.0,<2
+truststore>=0.9,<1
+
+# Для автотестов
+pytest>=8.0,<9
+pytest-asyncio>=0.23,<1
