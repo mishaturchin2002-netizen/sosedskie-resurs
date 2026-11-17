@@ -34,6 +34,8 @@
 | --- | --- |
 | ![Результаты голосования](docs/telegram-demo/poll.jpg) | ![Запрос фото и описания поломки](docs/telegram-demo/report.jpg) |
 
+[Видео голосования в Telegram (MP4, 10 секунд)](docs/telegram-demo/telegram-poll.mp4)
+
 ## Запуск
 
 Понадобится Python 3.12. Установите зависимости и запустите тесты бизнес-логики.
